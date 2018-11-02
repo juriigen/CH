@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">ConstructionHunt</string>
+
+    <!--Toolbar menus-->
+    <string name="clear">Clear</string>
+    <string name="cut">Cut</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+
+    <!--Drawer-->
+    <string name="open_drawer">Drawer Open</string>
+    <string name="close_drawer">Drawer Close</string>
+
+    <!--Drawer Menus-->
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="refresh">Refresh</string>
+
+    <!--App Message-->
+    <string name="api_retry_error">Please retry!</string>
+    <string name="api_default_error">Something wrong happened!</string>
+    <string name="some_error">Some Error Occurred!</string>
+    <string name="connection_error">Internet connection lost!</string>
+
+    <!--Login-->
+    <string name="login_dummy">Login</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <!--Login Validation-->
+    <string name="empty_email">Please provide a non empty username.</string>
+    <string name="invalid_email">Please provide a valid username.</string>
+    <string name="empty_password">Please provide a non empty password.</string>
+    <string name="wrong_auth">Wrong username or password.</string>
+
+    <!--button-->
+    <string name="later">Later</string>
+    <string name="submit">Submit</string>
+
+    <!--empty state-->
+    <string name="empty_screen">We do not have anything\nhere right now.</string>
+    <string name="please_retry">Please Retry</string>
+    <string name="retry">Retry</string>
+
+    <string name="version">"version"</string>
+    <string name="quit">"Are you sure you want to exit?"</string>
+    <string name="yes">"Yes"</string>
+    <string name="no">"No"</string>
+    <string name="gps_enable">"Would you like to enable GPS?"</string>
+    <string name="loc_manager">"Location Manager"</string>
+
+    <!-- Elevation -->
+    <dimen name="elevation">4dp</dimen>
+
+    <string name="kws_caption">To start say \"get my location\".</string>
+    <string name="preparing_recognizer">Preparing the recognizer\".</string>
+    <string name="phonetic_caption">To try phonetic recognition say anything.</string>
+
+
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="last_update_time_label">Last location update time</string>
+
+    <string name="start_updates">Start updates</string>
+    <string name="stop_updates">Stop updates</string>
+
+    <string name="location_settings_inadequate_warning">The location settings on the device are not
+        adequate to run this sample. Fix in Settings.</string>
+
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="settings">Settings</string>
+
+    <string name="title">Construction Site</string>
+    <string name="sales_list_view">List</string>
+    <string name="sales_map_view">Map</string>
+
+    <string-array name="state_array">
+        <item>Unseen</item>
+        <item>In Progress</item>
+        <item>Sale Made</item>
+        <item>Contact Made</item>
+        <item>Unsuccessful</item>
+        <item>Invalid</item>
+    </string-array>
+
+    <string name="date">Date</string>
+    <string name="state">State</string>
+</resources>
